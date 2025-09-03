@@ -20,5 +20,13 @@ A **Java-based customized calculator** project that performs basic arithmetic op
 ## 📂 Project Structure
 
 Customized-Calculator/
-│── Exercise_Project5.java # Main calculator implementation
-│── README.md # Documentation
+  │── Exercise_Project5.java # Main calculator implementation
+  │── README.md # Documentation
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/YourUsername/Customized-Calculator.git
+
