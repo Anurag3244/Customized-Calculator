@@ -1,0 +1,20 @@
+# Customized Calculator 🧮
+
+A **Java-based customized calculator** project that performs basic arithmetic operations with **custom exception handling** for invalid inputs, large numbers, division by zero, and restricted multiplications.
+
+---
+
+## 🚀 Features
+- ➕ **Addition** (with restrictions on input size)  
+- ➖ **Subtraction**  
+- ✖️ **Multiplication** (limited to values ≤ 7000)  
+- ➗ **Division** (safe handling of division by zero)  
+- 🎯 **Custom Exceptions** for:  
+  - Invalid input (example: 8 + 9 not allowed – optional)  
+  - Division by zero  
+  - Input greater than **100,000**  
+  - Multiplication overflow (>7000)  
+
+---
+
+## 📂 Project Structure
