@@ -18,3 +18,7 @@ A **Java-based customized calculator** project that performs basic arithmetic op
 ---
 
 ## 📂 Project Structure
+
+Customized-Calculator/
+│── Exercise_Project5.java # Main calculator implementation
+│── README.md # Documentation
