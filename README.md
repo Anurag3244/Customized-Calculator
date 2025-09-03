@@ -28,9 +28,9 @@ Customized-Calculator/
 ---
 
 ## 🛠️ How to Run
-### 1. Clone the repository:  
+ 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Customized-Calculator.git ###
+   git clone https://github.com/YourUsername/Customized-Calculator.git 
 
  2. Navigate to the folder:
 
