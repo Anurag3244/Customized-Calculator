@@ -28,15 +28,18 @@ Customized-Calculator/
 ---
 
 ## 🛠️ How to Run
- 1. Clone the repository:  
-   ```bash
+
+### 1. Clone the repository:  
+   
    git clone https://github.com/YourUsername/Customized-Calculator.git 
 
- 2. Navigate to the folder:
+---
+
+### 2. Navigate to the folder:
 
 - cd Customized-Calculator
 
- 3. Compile and run the program:
+### 3. Compile and run the program:
 
 - javac Exercise_Project5.java
 - java com.company.Exercise_Project5
