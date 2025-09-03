@@ -32,15 +32,15 @@ Customized-Calculator/
    ```bash
    git clone https://github.com/YourUsername/Customized-Calculator.git
 
-   Navigate to the folder:
+2. Navigate to the folder:
 
-cd Customized-Calculator
+- cd Customized-Calculator
 
 
-Compile and run the program:
+3. Compile and run the program:
 
-javac Exercise_Project5.java
-java com.company.Exercise_Project5
+- javac Exercise_Project5.java
+- java com.company.Exercise_Project5
 
 ## 📝 Example Usage
 Enter first number: 25
@@ -52,23 +52,24 @@ Choose operation:
 4. Division
 
 Your Choice: 4
+
 Result: 5.0
 
 ## ⚡ Custom Exception Messages
 
-Invalid Input. Cannot add 8 & 9.
+- Invalid Input. Cannot add 8 & 9.
 
-Mathematical Error, Cannot divide by Zero.
+- Mathematical Error, Cannot divide by Zero.
 
-Sorry, input cannot be greater than 1,00,000.
+- Sorry, input cannot be greater than 1,00,000.
 
-Input value for multiplication cannot be greater than 7000.
+- Input value for multiplication cannot be greater than 7000.
 
 ## 💡 Future Enhancements
 
-GUI-based version with Java Swing/JavaFX
+- GUI-based version with Java Swing/JavaFX
 
-Scientific calculator features (square root, power, trigonometry)
+- Scientific calculator features (square root, power, trigonometry)
 
-Unit tests with JUnit
+- Unit tests with JUnit
 
