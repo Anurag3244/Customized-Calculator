@@ -46,7 +46,9 @@ Customized-Calculator/
 
 ## 📝 Example Usage
 Enter first number: 25
+
 Enter second number: 5
+
 Choose operation: 
 1. Addition 
 2. Subtraction 
